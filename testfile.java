@@ -1,7 +1,7 @@
-class HelloWorld
+class testfile
 {
     public static void main(String[] args)
     {
-        System.out.println("Test_Passed"); 
+        System.out.println("Test_Passed");
     }
 }
